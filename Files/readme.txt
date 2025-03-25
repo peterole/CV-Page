@@ -1,0 +1,1 @@
+Just a simple CV website for myself
